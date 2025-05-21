@@ -1,0 +1,24 @@
+{
+  "name": "festival-musica",
+  "version": "1.0.0",
+  "description": "Aprendiendo SAAS y NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertdark14/festival-musica-sass.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "Gulp"
+  ],
+  "author": "Alberto Ayala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertdark14/festival-musica-sass/issues"
+  },
+  "homepage": "https://github.com/albertdark14/festival-musica-sass#readme"
+}
