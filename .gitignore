@@ -2,5 +2,5 @@
 node_modules
 
 # Compilación
-build
+build/css
 
