@@ -2,5 +2,12 @@
 node_modules
 
 # Compilación
-build/css
+build
 
+# Archivos del sistema y editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+npm-debug.log
